@@ -1,7 +1,9 @@
+🌻 Featured on https://svg-stencils.github.io 🌻
+
 # MUI v5.x Community
 
 This set of stencils are part of a free demo of a large UI kit with over 600
-handcrafted MUI symbols made for Figma ported to svg-stencils.github.io by Pim
+handcrafted MUI symbols made for Figma ported to [SVG Stencils](svg-stencils.github.io) by Pim
 Snel.
 
 As of today, this product primarily covers Material UI: the MUI's components

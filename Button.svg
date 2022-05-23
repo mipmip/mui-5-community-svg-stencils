@@ -4808,27 +4808,24 @@
      inkscape:groupmode="layer"
      id="New_Layer_1652918630.433295"
      style="display:inline">
-    <g
-       id="g3831">
-      <path
-         d="m 1055.67,867.167 h -10.14 l 4.65,-4.659 -1.18,-1.175 -6.67,6.667 6.67,6.667 1.18,-1.175 -4.65,-4.659 h 10.14 z"
-         fill="#000000"
-         fill-opacity="0.26"
-         id="path3314" />
-      <text
-         fill="#000000"
-         fill-opacity="0.26"
-         xml:space="preserve"
-         style="white-space:pre"
-         font-family="Roboto"
-         font-size="14px"
-         font-weight="500"
-         letter-spacing="0.4"
-         id="text3318"><tspan
-           x="1067"
-           y="872.78497"
-           id="tspan3316">DISALBED</tspan></text>
-    </g>
+    <path
+       d="m 1055.67,867.167 h -10.14 l 4.65,-4.659 -1.18,-1.175 -6.67,6.667 6.67,6.667 1.18,-1.175 -4.65,-4.659 h 10.14 z"
+       fill="#000000"
+       fill-opacity="0.26"
+       id="path3314" />
+    <text
+       fill="#000000"
+       fill-opacity="0.26"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3318"><tspan
+         x="1067"
+         y="872.78497"
+         id="tspan3316">DISALBED</tspan></text>
   </g>
   <g
      inkscape:label="New_Layer_1652918630.4339037"
@@ -4877,25 +4874,22 @@
      inkscape:groupmode="layer"
      id="New_Layer_1652918630.4348254"
      style="display:inline">
-    <g
-       id="g3826">
-      <path
-         d="m 614.667,867.167 h -10.142 l 4.658,-4.659 -1.183,-1.175 -6.667,6.667 6.667,6.667 1.175,-1.175 -4.65,-4.659 h 10.142 z"
-         fill="#1976d2"
-         id="path3330" />
-      <text
-         fill="#1976d2"
-         xml:space="preserve"
-         style="white-space:pre"
-         font-family="Roboto"
-         font-size="14px"
-         font-weight="500"
-         letter-spacing="0.4"
-         id="text3334"><tspan
-           x="626"
-           y="872.78497"
-           id="tspan3332">ENABLED</tspan></text>
-    </g>
+    <path
+       d="m 614.667,867.167 h -10.142 l 4.658,-4.659 -1.183,-1.175 -6.667,6.667 6.667,6.667 1.175,-1.175 -4.65,-4.659 h 10.142 z"
+       fill="#1976d2"
+       id="path3330" />
+    <text
+       fill="#1976d2"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3334"><tspan
+         x="626"
+         y="872.78497"
+         id="tspan3332">ENABLED</tspan></text>
   </g>
   <g
      inkscape:label="New_Layer_1652918630.4354048"
@@ -7030,28 +7024,25 @@
      inkscape:label="New_Layer_1653067966.2923484"
      inkscape:groupmode="layer"
      id="New_Layer_1653067966.2923484">
-    <g
-       id="g3841">
-      <path
-         d="m 1766.67,867.167 h -10.14 l 4.65,-4.659 -1.18,-1.175 -6.67,6.667 6.67,6.667 1.18,-1.175 -4.65,-4.659 h 10.14 z"
-         fill="#ffffff"
-         fill-opacity="0.3"
-         id="path3962"
-         style="display:inline" />
-      <text
-         fill="#ffffff"
-         fill-opacity="0.3"
-         xml:space="preserve"
-         style="white-space:pre;display:inline"
-         font-family="Roboto"
-         font-size="14px"
-         font-weight="500"
-         letter-spacing="0.4"
-         id="text3966"><tspan
-           x="1778"
-           y="872.78497"
-           id="tspan3964">DISALBED</tspan></text>
-    </g>
+    <path
+       d="m 1766.67,867.167 h -10.14 l 4.65,-4.659 -1.18,-1.175 -6.67,6.667 6.67,6.667 1.18,-1.175 -4.65,-4.659 h 10.14 z"
+       fill="#ffffff"
+       fill-opacity="0.3"
+       id="path3962"
+       style="display:inline" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.3"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3966"><tspan
+         x="1778"
+         y="872.78497"
+         id="tspan3964">DISALBED</tspan></text>
   </g>
   <g
      inkscape:label="New_Layer_1653067966.2929416"
@@ -7098,26 +7089,23 @@
      inkscape:label="New_Layer_1653067966.2938848"
      inkscape:groupmode="layer"
      id="New_Layer_1653067966.2938848">
-    <g
-       id="g3836">
-      <path
-         d="m 1325.67,867.167 h -10.14 l 4.65,-4.659 -1.18,-1.175 -6.67,6.667 6.67,6.667 1.18,-1.175 -4.65,-4.659 h 10.14 z"
-         fill="#90caf9"
-         id="path3978"
-         style="display:inline" />
-      <text
-         fill="#90caf9"
-         xml:space="preserve"
-         style="white-space:pre;display:inline"
-         font-family="Roboto"
-         font-size="14px"
-         font-weight="500"
-         letter-spacing="0.4"
-         id="text3982"><tspan
-           x="1337"
-           y="872.78497"
-           id="tspan3980">ENABLED</tspan></text>
-    </g>
+    <path
+       d="m 1325.67,867.167 h -10.14 l 4.65,-4.659 -1.18,-1.175 -6.67,6.667 6.67,6.667 1.18,-1.175 -4.65,-4.659 h 10.14 z"
+       fill="#90caf9"
+       id="path3978"
+       style="display:inline" />
+    <text
+       fill="#90caf9"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3982"><tspan
+         x="1337"
+         y="872.78497"
+         id="tspan3980">ENABLED</tspan></text>
   </g>
   <g
      inkscape:label="New_Layer_1653067966.2945006"

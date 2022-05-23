@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="320"
+   height="48"
+   fill="none"
+   version="1.1"
+   id="svg253"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs251" />
+  <g
+     id="New_Layer_1653319471.475794"
+     style="display:inline"
+     transform="translate(-1012,-921)">
+    <path
+       d="m 1012,925 a 4,4 0 0 1 4,-4 h 312 a 4,4 0 0 1 4,4 v 40 a 4,4 0 0 1 -4,4 h -312 a 4,4 0 0 1 -4,-4 z"
+       fill="#ffa726"
+       id="path186" />
+    <path
+       d="m 1039,939.949 6.9,11.926 h -13.8 z m 0,-3.657 -10.08,17.416 h 20.16 z"
+       fill="#ffffff"
+       id="path188" />
+    <path
+       d="m 1039.92,949.125 h -1.84 v 1.833 h 1.84 z m 0,-5.5 h -1.84 v 4.583 h 1.84 z"
+       fill="#ffffff"
+       id="path190" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.17"
+       id="text194"
+       x="1062"
+       y="949.78497"><tspan
+         x="1062"
+         y="949.78497"
+         id="tspan192">Warning</tspan></text>
+  </g>
+</svg>

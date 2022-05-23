@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="322"
+   height="50"
+   fill="none"
+   version="1.1"
+   id="svg253"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs251" />
+  <g
+     id="New_Layer_1653319471.4681895"
+     style="display:inline"
+     transform="translate(-593,-448)">
+    <path
+       d="m 620.083,475.75 h 1.834 v 1.833 h -1.834 z m 0,-7.333 h 1.834 v 5.5 h -1.834 z m 0.908,-4.584 c -5.06,0 -9.158,4.107 -9.158,9.167 0,5.06 4.098,9.167 9.158,9.167 5.069,0 9.176,-4.107 9.176,-9.167 0,-5.06 -4.107,-9.167 -9.176,-9.167 z m 0.009,16.5 A 7.33,7.33 0 0 1 613.667,473 7.33,7.33 0 0 1 621,465.667 7.33,7.33 0 0 1 628.333,473 7.33,7.33 0 0 1 621,480.333 Z"
+       fill="#d32f2f"
+       id="path112" />
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre;fill:#6a3030;fill-opacity:1"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.17"
+       id="text120"
+       x="644"
+       y="477.785"><tspan
+         x="644"
+         y="477.785"
+         id="tspan118"
+         style="fill:#6a3030;fill-opacity:1">Outlined</tspan></text>
+    <path
+       d="m 598,450 h 312 v -2 H 598 Z m 315,3 v 40 h 2 v -40 z m -3,43 H 598 v 2 h 312 z m -315,-3 v -40 h -2 v 40 z m 3,3 c -1.65685,0 -3,-1.34315 -3,-3 h -2 c 0,2.76142 2.23858,5 5,5 z m 315,-3 c 0,1.65685 -1.34315,3 -3,3 v 2 c 2.76142,0 5,-2.23858 5,-5 z m -3,-43 c 1.65685,0 3,1.34315 3,3 h 2 c 0,-2.76142 -2.23858,-5 -5,-5 z m -312,-2 c -2.76142,0 -5,2.23858 -5,5 h 2 c 0,-1.65685 1.34315,-3 3,-3 z"
+       fill="#d32f2f"
+       id="path122" />
+  </g>
+</svg>

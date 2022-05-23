@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="322"
+   height="50"
+   fill="none"
+   version="1.1"
+   id="svg253"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs251" />
+  <g
+     id="New_Layer_1653319471.4789803"
+     style="display:inline"
+     transform="translate(-1011,-448)">
+    <path
+       d="m 1038.08,475.75 h 1.84 v 1.833 h -1.84 z m 0,-7.333 h 1.84 v 5.5 h -1.84 z m 0.91,-4.584 c -5.06,0 -9.16,4.107 -9.16,9.167 0,5.06 4.1,9.167 9.16,9.167 5.07,0 9.18,-4.107 9.18,-9.167 0,-5.06 -4.11,-9.167 -9.18,-9.167 z m 0.01,16.5 a 7.329,7.329 0 0 1 -7.33,-7.333 7.329,7.329 0 0 1 7.33,-7.333 c 4.05,0 7.33,3.281 7.33,7.333 a 7.329,7.329 0 0 1 -7.33,7.333 z"
+       fill="#f44336"
+       id="path212" />
+    <text
+       fill="#f44336"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.17"
+       id="text216"
+       x="1062"
+       y="477.785"><tspan
+         x="1062"
+         y="477.785"
+         id="tspan214">Outlined</tspan></text>
+    <text
+       fill="#ffffff"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.17"
+       id="text220"
+       x="1062"
+       y="477.785"><tspan
+         x="1062"
+         y="477.785"
+         id="tspan218">Outlined</tspan></text>
+    <path
+       d="m 1016,450 h 312 v -2 h -312 z m 315,3 v 40 h 2 v -40 z m -3,43 h -312 v 2 h 312 z m -315,-3 v -40 h -2 v 40 z m 3,3 c -1.66,0 -3,-1.343 -3,-3 h -2 c 0,2.761 2.24,5 5,5 z m 315,-3 c 0,1.657 -1.34,3 -3,3 v 2 c 2.76,0 5,-2.239 5,-5 z m -3,-43 c 1.66,0 3,1.343 3,3 h 2 c 0,-2.761 -2.24,-5 -5,-5 z m -312,-2 c -2.76,0 -5,2.239 -5,5 h 2 c 0,-1.657 1.34,-3 3,-3 z"
+       fill="#f44336"
+       id="path222" />
+  </g>
+</svg>

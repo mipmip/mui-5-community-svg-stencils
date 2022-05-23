@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1653067966.2560692"
+     style="display:inline"
+     transform="translate(-1722,-378)">
+    <path
+       d="m 1722,382 a 4,4 0 0 1 4,-4 h 92 a 4,4 0 0 1 4,4 v 28 a 4,4 0 0 1 -4,4 h -92 a 4,4 0 0 1 -4,-4 z"
+       fill="#ffffff"
+       fill-opacity="0.12"
+       id="path3584"
+       style="display:inline" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.3"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3588"
+       x="1738"
+       y="400.785"><tspan
+         x="1738"
+         y="400.785"
+         id="tspan3586">DISALBED</tspan></text>
+  </g>
+</svg>

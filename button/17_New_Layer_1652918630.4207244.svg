@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="155"
+   height="38"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778">
+    <radialGradient
+       id="Button__o"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,36.2897,-55.9828,0,911.5,602)">
+      <stop
+         offset=".995"
+         stop-color="#1976D2"
+         stop-opacity=".3"
+         id="stop5700" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop5702" />
+    </radialGradient>
+  </defs>
+  <g
+     id="New_Layer_1652918630.4207244"
+     style="display:inline"
+     transform="translate(-834,-583)">
+    <path
+       fill="url(#Button__o)"
+       d="m 835,584 h 153 v 36 H 835 Z"
+       id="path3194"
+       style="fill:url(#Button__o)" />
+    <text
+       fill="#1976d2"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3198"
+       x="851"
+       y="606.78497"><tspan
+         x="851"
+         y="606.78497"
+         id="tspan3196">FOCUSED VISIBLE</tspan></text>
+    <path
+       d="m 839,585 h 145 v -2 H 839 Z m 148,3 v 28 h 2 v -28 z m -3,31 H 839 v 2 h 145 z m -148,-3 v -28 h -2 v 28 z m 3,3 a 3,3 0 0 1 -3,-3 h -2 a 5,5 0 0 0 5,5 z m 148,-3 a 3,3 0 0 1 -3,3 v 2 a 5,5 0 0 0 5,-5 z m -3,-31 a 3,3 0 0 1 3,3 h 2 a 5,5 0 0 0 -5,-5 z m -145,-2 a 5,5 0 0 0 -5,5 h 2 a 3,3 0 0 1 3,-3 z"
+       fill="#1976d2"
+       fill-opacity="0.5"
+       id="path3200" />
+  </g>
+</svg>

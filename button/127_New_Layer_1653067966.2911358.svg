@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="161"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778">
+    <radialGradient
+       id="Button__af"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,36.2897,-58.91,0,1642.5,928)">
+      <stop
+         offset=".995"
+         stop-color="#90CAF9"
+         stop-opacity=".3"
+         id="stop5770" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop5772" />
+    </radialGradient>
+  </defs>
+  <g
+     id="New_Layer_1653067966.2911358"
+     style="display:inline"
+     transform="translate(-1562,-910)">
+    <path
+       fill="url(#Button__af)"
+       d="m 1562,910 h 161 v 36 h -161 z"
+       id="path3950"
+       style="display:inline;fill:url(#Button__af)" />
+    <text
+       fill="#90caf9"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3954"
+       x="1570"
+       y="932.78497"><tspan
+         x="1570"
+         y="932.78497"
+         id="tspan3952">FOCUSED VISIBLE</tspan></text>
+    <path
+       d="m 1709,921.333 -1.17,1.175 4.65,4.659 h -10.15 v 1.666 h 10.15 l -4.65,4.659 1.17,1.175 6.67,-6.667 z"
+       fill="#90caf9"
+       id="path3956"
+       style="display:inline" />
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="102"
+   height="38"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1652918630.4237998"
+     style="display:inline"
+     transform="translate(-1010,-583)">
+    <text
+       fill="#000000"
+       fill-opacity="0.26"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3224"
+       x="1027"
+       y="606.78497"><tspan
+         x="1027"
+         y="606.78497"
+         id="tspan3222">DISALBED</tspan></text>
+    <path
+       d="m 1015,585 h 92 v -2 h -92 z m 95,3 v 28 h 2 v -28 z m -3,31 h -92 v 2 h 92 z m -95,-3 v -28 h -2 v 28 z m 3,3 c -1.66,0 -3,-1.343 -3,-3 h -2 c 0,2.761 2.24,5 5,5 z m 95,-3 c 0,1.657 -1.34,3 -3,3 v 2 c 2.76,0 5,-2.239 5,-5 z m -3,-31 c 1.66,0 3,1.343 3,3 h 2 c 0,-2.761 -2.24,-5 -5,-5 z m -92,-2 c -2.76,0 -5,2.239 -5,5 h 2 c 0,-1.657 1.34,-3 3,-3 z"
+       fill="#000000"
+       fill-opacity="0.12"
+       id="path3226" />
+  </g>
+</svg>

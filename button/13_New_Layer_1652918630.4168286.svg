@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1652918630.4168286"
+     style="display:inline"
+     transform="translate(-594,-498)">
+    <path
+       d="m 594,502 a 4,4 0 0 1 4,-4 h 112 a 4,4 0 0 1 4,4 v 28 a 4,4 0 0 1 -4,4 H 598 a 4,4 0 0 1 -4,-4 z"
+       fill="#1976d2"
+       id="path3156" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3160"
+       x="610"
+       y="520.78497"><tspan
+         x="610"
+         y="520.78497"
+         id="tspan3158">ENABLED</tspan></text>
+    <path
+       d="m 692,509.333 -1.175,1.175 4.65,4.659 h -10.142 v 1.666 h 10.142 l -4.65,4.659 1.175,1.175 6.667,-6.667 z"
+       fill="#ffffff"
+       id="path3162" />
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="124"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1653067966.2575579"
+     style="display:inline"
+     transform="translate(-1794,-498)">
+    <path
+       d="m 1794,502 a 4,4 0 0 1 4,-4 h 116 a 4,4 0 0 1 4,4 v 28 a 4,4 0 0 1 -4,4 h -116 a 4,4 0 0 1 -4,-4 z"
+       fill="#ffffff"
+       fill-opacity="0.12"
+       id="path3598"
+       style="display:inline" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.3"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3602"
+       x="1810"
+       y="520.78497"><tspan
+         x="1810"
+         y="520.78497"
+         id="tspan3600">DISALBED</tspan></text>
+    <path
+       d="m 1896,509.333 -1.17,1.175 4.65,4.659 h -10.15 v 1.666 h 10.15 l -4.65,4.659 1.17,1.175 6.67,-6.667 z"
+       fill="#ffffff"
+       fill-opacity="0.3"
+       id="path3604"
+       style="display:inline" />
+  </g>
+</svg>

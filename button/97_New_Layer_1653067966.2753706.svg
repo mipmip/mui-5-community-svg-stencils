@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="78"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1653067966.2753706"
+     style="display:inline"
+     transform="translate(-1565,-996)">
+    <path
+       d="m 1565,1000 a 4,4 0 0 1 4,-4 h 70 a 4,4 0 0 1 4,4 v 28 c 0,2.21 -1.79,4 -4,4 h -70 c -2.21,0 -4,-1.79 -4,-4 z"
+       fill="#f44336"
+       id="path3772" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3776"
+       x="1581"
+       y="1018.79"><tspan
+         x="1581"
+         y="1018.79"
+         id="tspan3774">ERROR</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="93"
+   height="42"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1652918630.4462175"
+     style="display:inline"
+     transform="translate(-594,-1428)">
+    <path
+       d="m 594,1432 a 4,4 0 0 1 4,-4 h 85 a 4,4 0 0 1 4,4 v 34 a 4,4 0 0 1 -4,4 h -85 a 4,4 0 0 1 -4,-4 z"
+       fill="#1976d2"
+       id="path3464" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="15px"
+       font-weight="500"
+       letter-spacing="0.46"
+       id="text3468"
+       x="616"
+       y="1454.13"><tspan
+         x="616"
+         y="1454.13"
+         id="tspan3466">LARGE</tspan></text>
+  </g>
+</svg>

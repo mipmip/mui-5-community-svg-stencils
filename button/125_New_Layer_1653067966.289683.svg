@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="137"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778">
+    <radialGradient
+       id="Button__ad"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,36.2897,-50.1284,0,1582.5,808)">
+      <stop
+         offset=".995"
+         stop-color="#90CAF9"
+         stop-opacity=".3"
+         id="stop5760" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop5762" />
+    </radialGradient>
+  </defs>
+  <g
+     id="New_Layer_1653067966.289683"
+     style="display:inline"
+     transform="translate(-1514,-790)">
+    <path
+       fill="url(#Button__ad)"
+       d="m 1514,790 h 137 v 36 h -137 z"
+       id="path3936"
+       style="display:inline;fill:url(#Button__ad)" />
+    <text
+       fill="#90caf9"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3940"
+       x="1522"
+       y="812.78497"><tspan
+         x="1522"
+         y="812.78497"
+         id="tspan3938">FOCUSED VISIBLE</tspan></text>
+  </g>
+</svg>

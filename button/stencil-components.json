@@ -1,1 +1,1336 @@
-{"components": ["1_New_Layer_1652918630.406896.svg", "2_New_Layer_1652918630.4078884.svg", "3_New_Layer_1652918630.4087358.svg", "4_New_Layer_1652918630.409592.svg", "5_New_Layer_1652918630.4106135.svg", "6_New_Layer_1652918630.4118538.svg", "7_New_Layer_1652918630.413079.svg", "8_New_Layer_1652918630.4136662.svg", "9_New_Layer_1652918630.414517.svg", "10_New_Layer_1652918630.415368.svg", "11_New_Layer_1652918630.415976.svg", "12_New_Layer_1652918630.4168286.svg", "13_New_Layer_1652918630.4176688.svg", "14_New_Layer_1652918630.4185174.svg", "15_New_Layer_1652918630.419622.svg", "16_New_Layer_1652918630.4207244.svg", "17_New_Layer_1652918630.421586.svg", "18_New_Layer_1652918630.4226885.svg", "19_New_Layer_1652918630.4237998.svg", "20_New_Layer_1652918630.424388.svg", "21_New_Layer_1652918630.4252467.svg", "22_New_Layer_1652918630.4261034.svg", "23_New_Layer_1652918630.4266877.svg", "24_New_Layer_1652918630.427542.svg", "25_New_Layer_1652918630.4283898.svg", "26_New_Layer_1652918630.428987.svg", "27_New_Layer_1652918630.429836.svg", "28_New_Layer_1652918630.4306695.svg", "29_New_Layer_1652918630.431265.svg", "30_New_Layer_1652918630.4321074.svg", "31_New_Layer_1652918630.4329531.svg", "32_New_Layer_1652918630.433295.svg", "33_New_Layer_1652918630.4339037.svg", "34_New_Layer_1652918630.4344835.svg", "35_New_Layer_1652918630.4348254.svg", "36_New_Layer_1652918630.4354048.svg", "37_New_Layer_1652918630.4359965.svg", "38_New_Layer_1652918630.436577.svg", "39_New_Layer_1652918630.4371676.svg", "40_New_Layer_1652918630.4377475.svg", "41_New_Layer_1652918630.4383385.svg", "42_New_Layer_1652918630.4389417.svg", "43_New_Layer_1652918630.4395223.svg", "44_New_Layer_1652918630.4401124.svg", "45_New_Layer_1652918630.4406903.svg", "46_New_Layer_1652918630.441276.svg", "47_New_Layer_1652918630.4418666.svg", "48_New_Layer_1652918630.4424436.svg", "49_New_Layer_1652918630.4430306.svg", "50_New_Layer_1652918630.4436154.svg", "51_New_Layer_1652918630.4442089.svg", "52_New_Layer_1652918630.4445372.svg", "53_New_Layer_1652918630.4448895.svg", "54_New_Layer_1652918630.4452214.svg", "55_New_Layer_1652918630.4455488.svg", "56_New_Layer_1652918630.4458895.svg", "57_New_Layer_1652918630.4462175.svg", "58_New_Layer_1652918630.446804.svg", "59_New_Layer_1652918630.4473827.svg", "60_New_Layer_1652918630.4477134.svg", "61_New_Layer_1652918630.4483025.svg", "62_New_Layer_1652918630.4488971.svg", "63_New_Layer_1652918630.4492295.svg", "64_New_Layer_1652918630.4498177.svg", "65_New_Layer_1652918630.450406.svg", "66_New_Layer_1652918630.4507465.svg"], "components_data": {"1_New_Layer_1652918630.406896.svg": {"top": 0.0, "bottom": 414.0, "left": 0.0, "right": 811.0}, "2_New_Layer_1652918630.4078884.svg": {"top": 0.0, "bottom": 474.0, "left": 0.0, "right": 859.0}, "3_New_Layer_1652918630.4087358.svg": {"top": 509.33, "bottom": 534.0, "left": 830.33, "right": 859.0}, "4_New_Layer_1652918630.409592.svg": {"top": 0.0, "bottom": 414.0, "left": 0.0, "right": 988.0}, "5_New_Layer_1652918630.4106135.svg": {"top": 0.0, "bottom": 474.0, "left": 0.0, "right": 1060.0}, "6_New_Layer_1652918630.4118538.svg": {"top": 509.33, "bottom": 534.0, "left": 1031.33, "right": 1060.0}, "7_New_Layer_1652918630.413079.svg": {"top": 0.0, "bottom": 414.0, "left": 0.0, "right": 1111.0}, "8_New_Layer_1652918630.4136662.svg": {"top": 0.0, "bottom": 474.0, "left": 0.0, "right": 1207.0}, "9_New_Layer_1652918630.414517.svg": {"top": 509.33, "bottom": 534.0, "left": 1178.33, "right": 1207.0}, "10_New_Layer_1652918630.415368.svg": {"top": 0.0, "bottom": 414.0, "left": 0.0, "right": 690.0}, "11_New_Layer_1652918630.415976.svg": {"top": 0.0, "bottom": 474.0, "left": 0.0, "right": 714.0}, "12_New_Layer_1652918630.4168286.svg": {"top": 509.33, "bottom": 534.0, "left": 685.33, "right": 714.0}, "13_New_Layer_1652918630.4176688.svg": {"top": 583.0, "bottom": 621.0, "left": 713.0, "right": 812.0}, "14_New_Layer_1652918630.4185174.svg": {"top": 643.0, "bottom": 681.0, "left": 737.0, "right": 860.0}, "15_New_Layer_1652918630.419622.svg": {"top": 703.0, "bottom": 741.0, "left": 737.0, "right": 860.0}, "16_New_Layer_1652918630.4207244.svg": {"top": 583.0, "bottom": 621.0, "left": 834.0, "right": 989.0}, "17_New_Layer_1652918630.421586.svg": {"top": 643.0, "bottom": 681.0, "left": 882.0, "right": 1061.0}, "18_New_Layer_1652918630.4226885.svg": {"top": 703.0, "bottom": 741.0, "left": 882.0, "right": 1061.0}, "19_New_Layer_1652918630.4237998.svg": {"top": 583.0, "bottom": 621.0, "left": 1010.0, "right": 1112.0}, "20_New_Layer_1652918630.424388.svg": {"top": 643.0, "bottom": 681.0, "left": 1082.0, "right": 1208.0}, "21_New_Layer_1652918630.4252467.svg": {"top": 703.0, "bottom": 741.0, "left": 1082.0, "right": 1208.0}, "22_New_Layer_1652918630.4261034.svg": {"top": 583.0, "bottom": 621.0, "left": 593.0, "right": 691.0}, "23_New_Layer_1652918630.4266877.svg": {"top": 643.0, "bottom": 681.0, "left": 593.0, "right": 715.0}, "24_New_Layer_1652918630.427542.svg": {"top": 703.0, "bottom": 741.0, "left": 593.0, "right": 715.0}, "25_New_Layer_1652918630.4283898.svg": {"top": 0.0, "bottom": 826.0, "left": 0.0, "right": 779.0}, "26_New_Layer_1652918630.428987.svg": {"top": 0.0, "bottom": 886.0, "left": 0.0, "right": 827.0}, "27_New_Layer_1652918630.429836.svg": {"top": 921.33, "bottom": 946.0, "left": 806.33, "right": 827.0}, "28_New_Layer_1652918630.4306695.svg": {"top": 0.0, "bottom": 826.0, "left": 0.0, "right": 940.0}, "29_New_Layer_1652918630.431265.svg": {"top": 0.0, "bottom": 886.0, "left": 0.0, "right": 1012.0}, "30_New_Layer_1652918630.4321074.svg": {"top": 921.33, "bottom": 946.0, "left": 991.33, "right": 1012.0}, "31_New_Layer_1652918630.4329531.svg": {"top": 0.0, "bottom": 824.78, "left": 0.0, "right": 971.0}, "32_New_Layer_1652918630.433295.svg": {"top": 0.0, "bottom": 884.78, "left": 0.0, "right": 1067.0}, "33_New_Layer_1652918630.4339037.svg": {"top": 921.33, "bottom": 944.78, "left": 1122.33, "right": 1135.67}, "34_New_Layer_1652918630.4344835.svg": {"top": 0.0, "bottom": 824.78, "left": 0.0, "right": 602.0}, "35_New_Layer_1652918630.4348254.svg": {"top": 0.0, "bottom": 884.78, "left": 0.0, "right": 626.0}, "36_New_Layer_1652918630.4354048.svg": {"top": 921.33, "bottom": 944.78, "left": 677.33, "right": 690.67}, "37_New_Layer_1652918630.4359965.svg": {"top": 0.0, "bottom": 1032.0, "left": 0.0, "right": 689.0}, "38_New_Layer_1652918630.436577.svg": {"top": 0.0, "bottom": 1032.0, "left": 0.0, "right": 830.0}, "39_New_Layer_1652918630.4371676.svg": {"top": 0.0, "bottom": 1032.0, "left": 0.0, "right": 932.0}, "40_New_Layer_1652918630.4377475.svg": {"top": 0.0, "bottom": 1032.0, "left": 0.0, "right": 1054.0}, "41_New_Layer_1652918630.4383385.svg": {"top": 0.0, "bottom": 1032.0, "left": 0.0, "right": 1143.0}, "42_New_Layer_1652918630.4389417.svg": {"top": 0.0, "bottom": 1092.0, "left": 0.0, "right": 690.0}, "43_New_Layer_1652918630.4395223.svg": {"top": 0.0, "bottom": 1092.0, "left": 0.0, "right": 802.0}, "44_New_Layer_1652918630.4401124.svg": {"top": 1141.0, "bottom": 1179.0, "left": 593.0, "right": 690.0}, "45_New_Layer_1652918630.4406903.svg": {"top": 1141.0, "bottom": 1179.0, "left": 713.0, "right": 831.0}, "46_New_Layer_1652918630.441276.svg": {"top": 1141.0, "bottom": 1179.0, "left": 853.0, "right": 933.0}, "47_New_Layer_1652918630.4418666.svg": {"top": 1141.0, "bottom": 1179.0, "left": 955.0, "right": 1055.0}, "48_New_Layer_1652918630.4424436.svg": {"top": 1141.0, "bottom": 1179.0, "left": 1077.0, "right": 1144.0}, "49_New_Layer_1652918630.4430306.svg": {"top": 1201.0, "bottom": 1239.0, "left": 593.0, "right": 691.0}, "50_New_Layer_1652918630.4436154.svg": {"top": 1201.0, "bottom": 1239.0, "left": 713.0, "right": 803.0}, "51_New_Layer_1652918630.4442089.svg": {"top": 0.0, "bottom": 1316.79, "left": 0.0, "right": 602.0}, "52_New_Layer_1652918630.4445372.svg": {"top": 0.0, "bottom": 1316.79, "left": 0.0, "right": 705.0}, "53_New_Layer_1652918630.4448895.svg": {"top": 0.0, "bottom": 1316.79, "left": 0.0, "right": 829.0}, "54_New_Layer_1652918630.4452214.svg": {"top": 0.0, "bottom": 1316.79, "left": 0.0, "right": 915.0}, "55_New_Layer_1652918630.4455488.svg": {"top": 0.0, "bottom": 1316.79, "left": 0.0, "right": 1021.0}, "56_New_Layer_1652918630.4458895.svg": {"top": 0.0, "bottom": 1376.79, "left": 0.0, "right": 602.0}, "57_New_Layer_1652918630.4462175.svg": {"top": 0.0, "bottom": 1470.0, "left": 0.0, "right": 687.0}, "58_New_Layer_1652918630.446804.svg": {"top": 1519.0, "bottom": 1563.0, "left": 593.0, "right": 688.0}, "59_New_Layer_1652918630.4473827.svg": {"top": 0.0, "bottom": 1650.13, "left": 0.0, "right": 605.0}, "60_New_Layer_1652918630.4477134.svg": {"top": 0.0, "bottom": 1470.0, "left": 0.0, "right": 800.0}, "61_New_Layer_1652918630.4483025.svg": {"top": 1525.0, "bottom": 1563.0, "left": 710.0, "right": 801.0}, "62_New_Layer_1652918630.4488971.svg": {"top": 0.0, "bottom": 1652.79, "left": 0.0, "right": 697.0}, "63_New_Layer_1652918630.4492295.svg": {"top": 0.0, "bottom": 1471.44, "left": 0.0, "right": 888.0}, "64_New_Layer_1652918630.4498177.svg": {"top": 1531.0, "bottom": 1563.44, "left": 823.0, "right": 889.0}, "65_New_Layer_1652918630.450406.svg": {"top": 0.0, "bottom": 1655.44, "left": 0.0, "right": 791.0}, "66_New_Layer_1652918630.4507465.svg": {"top": 0.0, "bottom": 1376.79, "left": 0.0, "right": 706.0}}}
+{
+  "components": [
+    "1_background.svg",
+    "2_New_Layer_1652918630.406896.svg",
+    "3_New_Layer_1652918630.4078884.svg",
+    "4_New_Layer_1652918630.4087358.svg",
+    "5_New_Layer_1652918630.409592.svg",
+    "6_New_Layer_1652918630.4106135.svg",
+    "7_New_Layer_1652918630.4118538.svg",
+    "8_New_Layer_1652918630.413079.svg",
+    "9_New_Layer_1652918630.4136662.svg",
+    "10_New_Layer_1652918630.414517.svg",
+    "11_New_Layer_1652918630.415368.svg",
+    "12_New_Layer_1652918630.415976.svg",
+    "13_New_Layer_1652918630.4168286.svg",
+    "14_New_Layer_1652918630.4176688.svg",
+    "15_New_Layer_1652918630.4185174.svg",
+    "16_New_Layer_1652918630.419622.svg",
+    "17_New_Layer_1652918630.4207244.svg",
+    "18_New_Layer_1652918630.421586.svg",
+    "19_New_Layer_1652918630.4226885.svg",
+    "20_New_Layer_1652918630.4237998.svg",
+    "21_New_Layer_1652918630.424388.svg",
+    "22_New_Layer_1652918630.4252467.svg",
+    "23_New_Layer_1652918630.4261034.svg",
+    "24_New_Layer_1652918630.4266877.svg",
+    "25_New_Layer_1652918630.427542.svg",
+    "26_New_Layer_1652918630.4283898.svg",
+    "27_New_Layer_1652918630.428987.svg",
+    "28_New_Layer_1652918630.429836.svg",
+    "29_New_Layer_1652918630.4306695.svg",
+    "30_New_Layer_1652918630.431265.svg",
+    "31_New_Layer_1652918630.4321074.svg",
+    "32_New_Layer_1652918630.4329531.svg",
+    "33_New_Layer_1652918630.433295.svg",
+    "34_New_Layer_1652918630.4339037.svg",
+    "35_New_Layer_1652918630.4344835.svg",
+    "36_New_Layer_1652918630.4348254.svg",
+    "37_New_Layer_1652918630.4354048.svg",
+    "38_New_Layer_1652918630.4359965.svg",
+    "39_New_Layer_1652918630.436577.svg",
+    "40_New_Layer_1652918630.4371676.svg",
+    "41_New_Layer_1652918630.4377475.svg",
+    "42_New_Layer_1652918630.4383385.svg",
+    "43_New_Layer_1652918630.4389417.svg",
+    "44_New_Layer_1652918630.4395223.svg",
+    "45_New_Layer_1652918630.4401124.svg",
+    "46_New_Layer_1652918630.4406903.svg",
+    "47_New_Layer_1652918630.441276.svg",
+    "48_New_Layer_1652918630.4418666.svg",
+    "49_New_Layer_1652918630.4424436.svg",
+    "50_New_Layer_1652918630.4430306.svg",
+    "51_New_Layer_1652918630.4436154.svg",
+    "52_New_Layer_1652918630.4442089.svg",
+    "53_New_Layer_1652918630.4445372.svg",
+    "54_New_Layer_1652918630.4448895.svg",
+    "55_New_Layer_1652918630.4452214.svg",
+    "56_New_Layer_1652918630.4455488.svg",
+    "57_New_Layer_1652918630.4458895.svg",
+    "58_New_Layer_1652918630.4462175.svg",
+    "59_New_Layer_1652918630.446804.svg",
+    "60_New_Layer_1652918630.4473827.svg",
+    "61_New_Layer_1652918630.4477134.svg",
+    "62_New_Layer_1652918630.4483025.svg",
+    "63_New_Layer_1652918630.4488971.svg",
+    "64_New_Layer_1652918630.4492295.svg",
+    "65_New_Layer_1652918630.4498177.svg",
+    "66_New_Layer_1652918630.450406.svg",
+    "67_New_Layer_1652918630.4507465.svg",
+    "68_New_Layer_1653067966.2498326.svg",
+    "69_New_Layer_1653067966.2507682.svg",
+    "70_New_Layer_1653067966.2516468.svg",
+    "71_New_Layer_1653067966.2525263.svg",
+    "72_New_Layer_1653067966.2535563.svg",
+    "73_New_Layer_1653067966.2548127.svg",
+    "74_New_Layer_1653067966.2560692.svg",
+    "75_New_Layer_1653067966.2566857.svg",
+    "76_New_Layer_1653067966.2575579.svg",
+    "77_New_Layer_1653067966.2584288.svg",
+    "78_New_Layer_1653067966.2590299.svg",
+    "79_New_Layer_1653067966.2599108.svg",
+    "80_New_Layer_1653067966.2607875.svg",
+    "81_New_Layer_1653067966.2616606.svg",
+    "82_New_Layer_1653067966.2627945.svg",
+    "83_New_Layer_1653067966.263946.svg",
+    "84_New_Layer_1653067966.2648213.svg",
+    "85_New_Layer_1653067966.2659528.svg",
+    "86_New_Layer_1653067966.2670825.svg",
+    "87_New_Layer_1653067966.2676928.svg",
+    "88_New_Layer_1653067966.2685652.svg",
+    "89_New_Layer_1653067966.2694457.svg",
+    "90_New_Layer_1653067966.2700503.svg",
+    "91_New_Layer_1653067966.270934.svg",
+    "92_New_Layer_1653067966.2718072.svg",
+    "93_New_Layer_1653067966.272418.svg",
+    "94_New_Layer_1653067966.2732875.svg",
+    "95_New_Layer_1653067966.2741473.svg",
+    "96_New_Layer_1653067966.2747605.svg",
+    "97_New_Layer_1653067966.2753706.svg",
+    "98_New_Layer_1653067966.2759688.svg",
+    "99_New_Layer_1653067966.2765918.svg",
+    "100_New_Layer_1653067966.2771895.svg",
+    "101_New_Layer_1653067966.2778006.svg",
+    "102_New_Layer_1653067966.2784138.svg",
+    "103_New_Layer_1653067966.279011.svg",
+    "104_New_Layer_1653067966.279618.svg",
+    "105_New_Layer_1653067966.2802215.svg",
+    "106_New_Layer_1653067966.280819.svg",
+    "107_New_Layer_1653067966.2814252.svg",
+    "108_New_Layer_1653067966.2820168.svg",
+    "109_New_Layer_1653067966.2826355.svg",
+    "110_New_Layer_1653067966.2829735.svg",
+    "111_New_Layer_1653067966.2833223.svg",
+    "112_New_Layer_1653067966.2836592.svg",
+    "113_New_Layer_1653067966.2839959.svg",
+    "114_New_Layer_1653067966.284344.svg",
+    "115_New_Layer_1653067966.2846816.svg",
+    "116_New_Layer_1653067966.2852857.svg",
+    "117_New_Layer_1653067966.2858806.svg",
+    "118_New_Layer_1653067966.286228.svg",
+    "119_New_Layer_1653067966.286822.svg",
+    "120_New_Layer_1653067966.2874274.svg",
+    "121_New_Layer_1653067966.2877653.svg",
+    "122_New_Layer_1653067966.2883937.svg",
+    "123_New_Layer_1653067966.2889936.svg",
+    "124_New_Layer_1653067966.2893445.svg",
+    "125_New_Layer_1653067966.289683.svg",
+    "126_New_Layer_1653067966.290286.svg",
+    "127_New_Layer_1653067966.2911358.svg",
+    "128_New_Layer_1653067966.2919972.svg",
+    "129_New_Layer_1653067966.2923484.svg",
+    "130_New_Layer_1653067966.2929416.svg",
+    "131_New_Layer_1653067966.2935472.svg",
+    "132_New_Layer_1653067966.2938848.svg",
+    "133_New_Layer_1653067966.2945006.svg"
+  ],
+  "components_data": {
+    "1_background.svg": {
+      "type": "locked",
+      "top": 2,
+      "bottom": 1892,
+      "left": 1,
+      "right": 1943,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "2_New_Layer_1652918630.406896.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 714,
+      "right": 811,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "3_New_Layer_1652918630.4078884.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 738,
+      "right": 859,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "4_New_Layer_1652918630.4087358.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 738,
+      "right": 859,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "5_New_Layer_1652918630.409592.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 835,
+      "right": 988,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "6_New_Layer_1652918630.4106135.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 883,
+      "right": 1060,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "7_New_Layer_1652918630.4118538.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 883,
+      "right": 1060,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "8_New_Layer_1652918630.413079.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 1011,
+      "right": 1111,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "9_New_Layer_1652918630.4136662.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 1083,
+      "right": 1207,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "10_New_Layer_1652918630.414517.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 1083,
+      "right": 1207,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "11_New_Layer_1652918630.415368.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 594,
+      "right": 690,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "12_New_Layer_1652918630.415976.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 594,
+      "right": 714,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "13_New_Layer_1652918630.4168286.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 594,
+      "right": 714,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "14_New_Layer_1652918630.4176688.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 713,
+      "right": 812,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "15_New_Layer_1652918630.4185174.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 737,
+      "right": 860,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "16_New_Layer_1652918630.419622.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 737,
+      "right": 860,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "17_New_Layer_1652918630.4207244.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 834,
+      "right": 989,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "18_New_Layer_1652918630.421586.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 882,
+      "right": 1061,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "19_New_Layer_1652918630.4226885.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 882,
+      "right": 1061,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "20_New_Layer_1652918630.4237998.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 1010,
+      "right": 1112,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "21_New_Layer_1652918630.424388.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 1082,
+      "right": 1208,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "22_New_Layer_1652918630.4252467.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 1082,
+      "right": 1208,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "23_New_Layer_1652918630.4261034.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 593,
+      "right": 691,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "24_New_Layer_1652918630.4266877.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 593,
+      "right": 715,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "25_New_Layer_1652918630.427542.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 593,
+      "right": 715,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "26_New_Layer_1652918630.4283898.svg": {
+      "type": "component",
+      "top": 790,
+      "bottom": 826,
+      "left": 698,
+      "right": 779,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "27_New_Layer_1652918630.428987.svg": {
+      "type": "component",
+      "top": 850,
+      "bottom": 886,
+      "left": 722,
+      "right": 827,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "28_New_Layer_1652918630.429836.svg": {
+      "type": "component",
+      "top": 910,
+      "bottom": 946,
+      "left": 722,
+      "right": 827,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "29_New_Layer_1652918630.4306695.svg": {
+      "type": "component",
+      "top": 790,
+      "bottom": 826,
+      "left": 803,
+      "right": 940,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "30_New_Layer_1652918630.431265.svg": {
+      "type": "component",
+      "top": 850,
+      "bottom": 886,
+      "left": 851,
+      "right": 1012,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "31_New_Layer_1652918630.4321074.svg": {
+      "type": "component",
+      "top": 910,
+      "bottom": 946,
+      "left": 851,
+      "right": 1012,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "32_New_Layer_1652918630.4329531.svg": {
+      "type": "component",
+      "top": 798.78,
+      "bottom": 812.78,
+      "left": 971,
+      "right": 971,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "33_New_Layer_1652918630.433295.svg": {
+      "type": "component",
+      "top": 861.33,
+      "bottom": 874.67,
+      "left": 1042.33,
+      "right": 1042.33,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "34_New_Layer_1652918630.4339037.svg": {
+      "type": "component",
+      "top": 921.33,
+      "bottom": 934.67,
+      "left": 1043,
+      "right": 1135.67,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "35_New_Layer_1652918630.4344835.svg": {
+      "type": "component",
+      "top": 798.78,
+      "bottom": 812.78,
+      "left": 602,
+      "right": 602,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "36_New_Layer_1652918630.4348254.svg": {
+      "type": "component",
+      "top": 861.33,
+      "bottom": 874.67,
+      "left": 601.33,
+      "right": 601.33,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "37_New_Layer_1652918630.4354048.svg": {
+      "type": "component",
+      "top": 921.33,
+      "bottom": 934.67,
+      "left": 602,
+      "right": 690.67,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "38_New_Layer_1652918630.4359965.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 594,
+      "right": 689,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "39_New_Layer_1652918630.436577.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 714,
+      "right": 830,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "40_New_Layer_1652918630.4371676.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 854,
+      "right": 932,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "41_New_Layer_1652918630.4377475.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 956,
+      "right": 1054,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "42_New_Layer_1652918630.4383385.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 1078,
+      "right": 1143,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "43_New_Layer_1652918630.4389417.svg": {
+      "type": "component",
+      "top": 1056,
+      "bottom": 1092,
+      "left": 594,
+      "right": 690,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "44_New_Layer_1652918630.4395223.svg": {
+      "type": "component",
+      "top": 1056,
+      "bottom": 1092,
+      "left": 714,
+      "right": 802,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "45_New_Layer_1652918630.4401124.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 593,
+      "right": 690,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "46_New_Layer_1652918630.4406903.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 713,
+      "right": 831,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "47_New_Layer_1652918630.441276.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 853,
+      "right": 933,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "48_New_Layer_1652918630.4418666.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 955,
+      "right": 1055,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "49_New_Layer_1652918630.4424436.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 1077,
+      "right": 1144,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "50_New_Layer_1652918630.4430306.svg": {
+      "type": "component",
+      "top": 1201,
+      "bottom": 1239,
+      "left": 593,
+      "right": 691,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "51_New_Layer_1652918630.4436154.svg": {
+      "type": "component",
+      "top": 1201,
+      "bottom": 1239,
+      "left": 713,
+      "right": 803,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "52_New_Layer_1652918630.4442089.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 602,
+      "right": 602,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "53_New_Layer_1652918630.4445372.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 705,
+      "right": 705,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "54_New_Layer_1652918630.4448895.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 829,
+      "right": 829,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "55_New_Layer_1652918630.4452214.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 915,
+      "right": 915,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "56_New_Layer_1652918630.4455488.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 1021,
+      "right": 1021,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "57_New_Layer_1652918630.4458895.svg": {
+      "type": "component",
+      "top": 1350.79,
+      "bottom": 1364.79,
+      "left": 602,
+      "right": 602,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "58_New_Layer_1652918630.4462175.svg": {
+      "type": "component",
+      "top": 1428,
+      "bottom": 1470,
+      "left": 594,
+      "right": 687,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "59_New_Layer_1652918630.446804.svg": {
+      "type": "component",
+      "top": 1519,
+      "bottom": 1563,
+      "left": 593,
+      "right": 688,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "60_New_Layer_1652918630.4473827.svg": {
+      "type": "component",
+      "top": 1623.13,
+      "bottom": 1638.13,
+      "left": 605,
+      "right": 605,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "61_New_Layer_1652918630.4477134.svg": {
+      "type": "component",
+      "top": 1434,
+      "bottom": 1470,
+      "left": 711,
+      "right": 800,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "62_New_Layer_1652918630.4483025.svg": {
+      "type": "component",
+      "top": 1525,
+      "bottom": 1563,
+      "left": 710,
+      "right": 801,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "63_New_Layer_1652918630.4488971.svg": {
+      "type": "component",
+      "top": 1626.79,
+      "bottom": 1640.79,
+      "left": 697,
+      "right": 697,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "64_New_Layer_1652918630.4492295.svg": {
+      "type": "component",
+      "top": 1440,
+      "bottom": 1470,
+      "left": 824,
+      "right": 888,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "65_New_Layer_1652918630.4498177.svg": {
+      "type": "component",
+      "top": 1531,
+      "bottom": 1563,
+      "left": 823,
+      "right": 889,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "66_New_Layer_1652918630.450406.svg": {
+      "type": "component",
+      "top": 1630.44,
+      "bottom": 1643.44,
+      "left": 791,
+      "right": 791,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "67_New_Layer_1652918630.4507465.svg": {
+      "type": "component",
+      "top": 1350.79,
+      "bottom": 1364.79,
+      "left": 706,
+      "right": 706,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "68_New_Layer_1653067966.2498326.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 1425,
+      "right": 1522,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "69_New_Layer_1653067966.2507682.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 1449,
+      "right": 1570,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "70_New_Layer_1653067966.2516468.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 1449,
+      "right": 1570,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "71_New_Layer_1653067966.2525263.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 1546,
+      "right": 1699,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "72_New_Layer_1653067966.2535563.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 1594,
+      "right": 1771,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "73_New_Layer_1653067966.2548127.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 1594,
+      "right": 1771,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "74_New_Layer_1653067966.2560692.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 1722,
+      "right": 1822,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "75_New_Layer_1653067966.2566857.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 1794,
+      "right": 1918,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "76_New_Layer_1653067966.2575579.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 1794,
+      "right": 1918,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "77_New_Layer_1653067966.2584288.svg": {
+      "type": "component",
+      "top": 378,
+      "bottom": 414,
+      "left": 1305,
+      "right": 1401,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "78_New_Layer_1653067966.2590299.svg": {
+      "type": "component",
+      "top": 438,
+      "bottom": 474,
+      "left": 1305,
+      "right": 1425,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "79_New_Layer_1653067966.2599108.svg": {
+      "type": "component",
+      "top": 498,
+      "bottom": 534,
+      "left": 1305,
+      "right": 1425,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "80_New_Layer_1653067966.2607875.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 1424,
+      "right": 1523,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "81_New_Layer_1653067966.2616606.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 1448,
+      "right": 1571,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "82_New_Layer_1653067966.2627945.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 1448,
+      "right": 1571,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "83_New_Layer_1653067966.263946.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 1545,
+      "right": 1700,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "84_New_Layer_1653067966.2648213.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 1593,
+      "right": 1772,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "85_New_Layer_1653067966.2659528.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 1593,
+      "right": 1772,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "86_New_Layer_1653067966.2670825.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 1721,
+      "right": 1823,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "87_New_Layer_1653067966.2676928.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 1793,
+      "right": 1919,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "88_New_Layer_1653067966.2685652.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 1793,
+      "right": 1919,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "89_New_Layer_1653067966.2694457.svg": {
+      "type": "component",
+      "top": 583,
+      "bottom": 621,
+      "left": 1304,
+      "right": 1402,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "90_New_Layer_1653067966.2700503.svg": {
+      "type": "component",
+      "top": 643,
+      "bottom": 681,
+      "left": 1304,
+      "right": 1426,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "91_New_Layer_1653067966.270934.svg": {
+      "type": "component",
+      "top": 703,
+      "bottom": 741,
+      "left": 1304,
+      "right": 1426,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "92_New_Layer_1653067966.2718072.svg": {
+      "type": "component",
+      "top": 790,
+      "bottom": 826,
+      "left": 1409,
+      "right": 1490,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "93_New_Layer_1653067966.272418.svg": {
+      "type": "component",
+      "top": 850,
+      "bottom": 886,
+      "left": 1433,
+      "right": 1538,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "94_New_Layer_1653067966.2732875.svg": {
+      "type": "component",
+      "top": 910,
+      "bottom": 946,
+      "left": 1433,
+      "right": 1538,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "95_New_Layer_1653067966.2741473.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 1305,
+      "right": 1400,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "96_New_Layer_1653067966.2747605.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 1425,
+      "right": 1541,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "97_New_Layer_1653067966.2753706.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 1565,
+      "right": 1643,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "98_New_Layer_1653067966.2759688.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 1667,
+      "right": 1765,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "99_New_Layer_1653067966.2765918.svg": {
+      "type": "component",
+      "top": 996,
+      "bottom": 1032,
+      "left": 1789,
+      "right": 1854,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "100_New_Layer_1653067966.2771895.svg": {
+      "type": "component",
+      "top": 1056,
+      "bottom": 1092,
+      "left": 1305,
+      "right": 1401,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "101_New_Layer_1653067966.2778006.svg": {
+      "type": "component",
+      "top": 1056,
+      "bottom": 1092,
+      "left": 1425,
+      "right": 1513,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "102_New_Layer_1653067966.2784138.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 1304,
+      "right": 1401,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "103_New_Layer_1653067966.279011.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 1424,
+      "right": 1542,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "104_New_Layer_1653067966.279618.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 1564,
+      "right": 1644,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "105_New_Layer_1653067966.2802215.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 1666,
+      "right": 1766,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "106_New_Layer_1653067966.280819.svg": {
+      "type": "component",
+      "top": 1141,
+      "bottom": 1179,
+      "left": 1788,
+      "right": 1855,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "107_New_Layer_1653067966.2814252.svg": {
+      "type": "component",
+      "top": 1201,
+      "bottom": 1239,
+      "left": 1304,
+      "right": 1402,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "108_New_Layer_1653067966.2820168.svg": {
+      "type": "component",
+      "top": 1201,
+      "bottom": 1239,
+      "left": 1424,
+      "right": 1514,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "109_New_Layer_1653067966.2826355.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 1313,
+      "right": 1313,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "110_New_Layer_1653067966.2829735.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 1416,
+      "right": 1416,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "111_New_Layer_1653067966.2833223.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 1540,
+      "right": 1540,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "112_New_Layer_1653067966.2836592.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 1626,
+      "right": 1626,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "113_New_Layer_1653067966.2839959.svg": {
+      "type": "component",
+      "top": 1290.79,
+      "bottom": 1304.79,
+      "left": 1732,
+      "right": 1732,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "114_New_Layer_1653067966.284344.svg": {
+      "type": "component",
+      "top": 1350.79,
+      "bottom": 1364.79,
+      "left": 1313,
+      "right": 1313,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "115_New_Layer_1653067966.2846816.svg": {
+      "type": "component",
+      "top": 1428,
+      "bottom": 1470,
+      "left": 1305,
+      "right": 1398,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "116_New_Layer_1653067966.2852857.svg": {
+      "type": "component",
+      "top": 1519,
+      "bottom": 1563,
+      "left": 1304,
+      "right": 1399,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "117_New_Layer_1653067966.2858806.svg": {
+      "type": "component",
+      "top": 1623.13,
+      "bottom": 1638.13,
+      "left": 1316,
+      "right": 1316,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "118_New_Layer_1653067966.286228.svg": {
+      "type": "component",
+      "top": 1434,
+      "bottom": 1470,
+      "left": 1422,
+      "right": 1511,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "119_New_Layer_1653067966.286822.svg": {
+      "type": "component",
+      "top": 1525,
+      "bottom": 1563,
+      "left": 1421,
+      "right": 1512,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "120_New_Layer_1653067966.2874274.svg": {
+      "type": "component",
+      "top": 1626.79,
+      "bottom": 1640.79,
+      "left": 1408,
+      "right": 1408,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "121_New_Layer_1653067966.2877653.svg": {
+      "type": "component",
+      "top": 1440,
+      "bottom": 1470,
+      "left": 1535,
+      "right": 1599,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "122_New_Layer_1653067966.2883937.svg": {
+      "type": "component",
+      "top": 1531,
+      "bottom": 1563,
+      "left": 1534,
+      "right": 1600,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "123_New_Layer_1653067966.2889936.svg": {
+      "type": "component",
+      "top": 1630.44,
+      "bottom": 1643.44,
+      "left": 1502,
+      "right": 1502,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "124_New_Layer_1653067966.2893445.svg": {
+      "type": "component",
+      "top": 1350.79,
+      "bottom": 1364.79,
+      "left": 1417,
+      "right": 1417,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "125_New_Layer_1653067966.289683.svg": {
+      "type": "component",
+      "top": 790,
+      "bottom": 826,
+      "left": 1514,
+      "right": 1651,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "126_New_Layer_1653067966.290286.svg": {
+      "type": "component",
+      "top": 850,
+      "bottom": 886,
+      "left": 1562,
+      "right": 1723,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "127_New_Layer_1653067966.2911358.svg": {
+      "type": "component",
+      "top": 910,
+      "bottom": 946,
+      "left": 1562,
+      "right": 1723,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "128_New_Layer_1653067966.2919972.svg": {
+      "type": "component",
+      "top": 798.78,
+      "bottom": 812.78,
+      "left": 1682,
+      "right": 1682,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "129_New_Layer_1653067966.2923484.svg": {
+      "type": "component",
+      "top": 861.33,
+      "bottom": 874.67,
+      "left": 1753.33,
+      "right": 1753.33,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "130_New_Layer_1653067966.2929416.svg": {
+      "type": "component",
+      "top": 921.33,
+      "bottom": 934.67,
+      "left": 1754,
+      "right": 1846.67,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "131_New_Layer_1653067966.2935472.svg": {
+      "type": "component",
+      "top": 798.78,
+      "bottom": 812.78,
+      "left": 1313,
+      "right": 1313,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "132_New_Layer_1653067966.2938848.svg": {
+      "type": "component",
+      "top": 861.33,
+      "bottom": 874.67,
+      "left": 1312.33,
+      "right": 1312.33,
+      "translate_x": 0,
+      "translate_y": 0
+    },
+    "133_New_Layer_1653067966.2945006.svg": {
+      "type": "component",
+      "top": 921.33,
+      "bottom": 934.67,
+      "left": 1313,
+      "right": 1401.67,
+      "translate_x": 0,
+      "translate_y": 0
+    }
+  }
+}

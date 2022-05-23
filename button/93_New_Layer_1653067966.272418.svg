@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="105"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1653067966.272418"
+     style="display:inline"
+     transform="translate(-1433,-850)">
+    <path
+       d="m 1433,854 a 4,4 0 0 1 4,-4 h 97 a 4,4 0 0 1 4,4 v 28 a 4,4 0 0 1 -4,4 h -97 a 4,4 0 0 1 -4,-4 z"
+       fill="#90caf9"
+       fill-opacity="0.08"
+       id="path3740"
+       style="display:inline" />
+    <path
+       d="m 1453.67,867.167 h -10.14 l 4.65,-4.659 -1.18,-1.175 -6.67,6.667 6.67,6.667 1.18,-1.175 -4.65,-4.659 h 10.14 z"
+       fill="#90caf9"
+       id="path3742"
+       style="display:inline" />
+    <text
+       fill="#90caf9"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3746"
+       x="1465"
+       y="872.78497"><tspan
+         x="1465"
+         y="872.78497"
+         id="tspan3744">HOVERED</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="89"
+   height="36"
+   fill="none"
+   version="1.1"
+   id="svg5780"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5778" />
+  <g
+     id="New_Layer_1652918630.4477134"
+     style="display:inline"
+     transform="translate(-711,-1434)">
+    <path
+       d="m 711,1438 a 4,4 0 0 1 4,-4 h 81 a 4,4 0 0 1 4,4 v 28 a 4,4 0 0 1 -4,4 h -81 a 4,4 0 0 1 -4,-4 z"
+       fill="#1976d2"
+       id="path3482" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       font-weight="500"
+       letter-spacing="0.4"
+       id="text3486"
+       x="727"
+       y="1456.79"><tspan
+         x="727"
+         y="1456.79"
+         id="tspan3484">MEDIUM</tspan></text>
+  </g>
+</svg>

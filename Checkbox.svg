@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1746"
+   fill="none"
+   version="1.1"
+   id="svg373"
+   sodipodi:docname="Checkbox.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview375"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     showgrid="false"
+     inkscape:zoom="0.58237088"
+     inkscape:cx="872.29637"
+     inkscape:cy="932.39553"
+     inkscape:window-width="2516"
+     inkscape:window-height="1330"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="New_Layer_1653328872.7476652" />
+  <defs
+     id="defs371">
+    <filter
+       id="Checkbox__a"
+       x="569"
+       y="353"
+       width="592"
+       height="834"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood356" />
+      <feColorMatrix
+         in="SourceAlpha"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix358" />
+      <feMorphology
+         radius="1"
+         operator="dilate"
+         in="SourceAlpha"
+         result="effect1_dropShadow_4868_32250"
+         id="feMorphology360" />
+      <feOffset
+         id="feOffset362" />
+      <feColorMatrix
+         values="0 0 0 0 0.878431 0 0 0 0 0.878431 0 0 0 0 0.878431 0 0 0 1 0"
+         id="feColorMatrix364" />
+      <feBlend
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_4868_32250"
+         id="feBlend366" />
+      <feBlend
+         in="SourceGraphic"
+         in2="effect1_dropShadow_4868_32250"
+         result="shape"
+         id="feBlend368" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="bg"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="'Roboto Mono'"
+       font-size="64px"
+       font-weight="500"
+       letter-spacing="-1.5"
+       id="text6"><tspan
+         x="120"
+         y="182.35899"
+         id="tspan4">Checkbox</tspan></text>
+    <path
+       d="m 120,259 v -1 h -1 v 1 z m 1680,0 h 1 v -1 h -1 z m 0,1 v 1 h 1 v -1 z m -1680,0 h -1 v 1 h 1 z m 0,0 h 1680 v -2 H 120 Z m 1679,-1 v 1 h 2 v -1 z m 1,0 H 120 v 2 h 1680 z m -1679,1 v -1 h -2 v 1 z"
+       fill="#000000"
+       fill-opacity="0.12"
+       id="path8" />
+    <rect
+       x="120"
+       y="1582"
+       width="1680"
+       height="124"
+       rx="10"
+       fill="#f5f5f5"
+       id="rect344" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 194.972,1627.31 a 0.931,0.931 0 0 0 0.325,-0.32 c 0.079,-0.14 0.12,-0.29 0.121,-0.45 l 0.016,-5.14 c 0,-0.16 0.042,-0.31 0.12,-0.44 a 0.883,0.883 0 0 1 0.326,-0.33 l 2.788,-1.6 a 0.874,0.874 0 0 1 0.888,0 0.88,0.88 0 0 1 0.325,0.33 c 0.078,0.13 0.119,0.29 0.119,0.44 v 9.35 c 0,0.16 -0.041,0.31 -0.12,0.45 a 0.856,0.856 0 0 1 -0.326,0.32 l -10.524,6.05 a 0.857,0.857 0 0 1 -0.441,0.12 0.86,0.86 0 0 1 -0.442,-0.12 l -8.259,-4.72 a 0.888,0.888 0 0 1 -0.328,-0.33 0.913,0.913 0 0 1 -0.12,-0.45 v -4.71 c 0,-0.01 0.006,-0.01 0.012,-0.01 h 0.01 v -0.01 c 0,0 0.002,-0.01 0.006,-0.01 l 6.801,-3.91 c 0.007,0 0.004,-0.01 -0.003,-0.01 h -0.005 c -0.002,0 -0.002,0 -0.002,-0.01 l 0.013,-4.62 a 0.9,0.9 0 0 0 -0.118,-0.45 0.931,0.931 0 0 0 -0.325,-0.32 0.872,0.872 0 0 0 -0.445,-0.12 c -0.156,0 -0.31,0.04 -0.445,0.12 l -5.055,2.91 a 0.868,0.868 0 0 1 -0.444,0.12 0.868,0.868 0 0 1 -0.444,-0.12 l -5.071,-2.92 a 0.868,0.868 0 0 0 -0.444,-0.12 0.88,0.88 0 0 0 -0.769,0.45 0.849,0.849 0 0 0 -0.119,0.44 v 8.36 c 0,0.15 -0.041,0.3 -0.118,0.44 a 0.854,0.854 0 0 1 -0.325,0.32 0.862,0.862 0 0 1 -0.443,0.12 0.772,0.772 0 0 1 -0.444,-0.11 l -2.814,-1.61 a 0.88,0.88 0 0 1 -0.328,-0.33 0.866,0.866 0 0 1 -0.12,-0.44 l 0.025,-14.61 c 0,-0.15 0.041,-0.31 0.119,-0.44 a 0.88,0.88 0 0 1 0.325,-0.33 0.979,0.979 0 0 1 0.444,-0.12 c 0.155,0 0.308,0.04 0.443,0.12 l 9.64,5.54 c 0.135,0.08 0.288,0.12 0.443,0.12 0.155,0 0.308,-0.04 0.443,-0.12 l 9.637,-5.54 a 0.868,0.868 0 0 1 0.444,-0.12 c 0.156,0 0.309,0.05 0.444,0.12 a 0.88,0.88 0 0 1 0.325,0.33 c 0.078,0.13 0.119,0.29 0.119,0.44 v 14.61 c 0,0.16 -0.042,0.31 -0.12,0.45 a 0.926,0.926 0 0 1 -0.326,0.32 l -5.047,2.91 a 0.883,0.883 0 0 0 -0.326,0.33 0.849,0.849 0 0 0 -0.119,0.44 c 0.001,0.16 0.042,0.31 0.121,0.45 a 0.94,0.94 0 0 0 0.328,0.32 l 2.784,1.59 c 0.134,0.07 0.286,0.11 0.441,0.11 0.155,0 0.307,-0.04 0.441,-0.12 z m 0.584,-13.1 c 0,0.16 0.041,0.31 0.121,0.45 0.079,0.13 0.193,0.24 0.33,0.32 0.136,0.08 0.291,0.12 0.448,0.12 a 0.99,0.99 0 0 0 0.446,-0.13 l 2.667,-1.6 a 0.905,0.905 0 0 0 0.316,-0.32 0.922,0.922 0 0 0 0.116,-0.44 v -3.26 c 0,-0.16 -0.042,-0.31 -0.122,-0.45 a 0.798,0.798 0 0 0 -0.329,-0.32 0.889,0.889 0 0 0 -0.449,-0.12 0.883,0.883 0 0 0 -0.446,0.13 l -2.666,1.6 a 0.916,0.916 0 0 0 -0.317,0.32 0.903,0.903 0 0 0 -0.115,0.44 z"
+       fill="#007fff"
+       id="path346" />
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="'Roboto Mono'"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text350"><tspan
+         x="168"
+         y="1674.21"
+         id="tspan348">Visit mui.com for extended documentation.</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="'Roboto Mono'"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text354"><tspan
+         x="1693"
+         y="1674.21"
+         id="tspan352">v5.4.0</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       font-weight="500"
+       letter-spacing="0.15"
+       id="text12"><tspan
+         x="120"
+         y="401.46899"
+         id="tspan10">States</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text16"><tspan
+         x="322"
+         y="470.785"
+         id="tspan14">Inactive</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text20"><tspan
+         x="322"
+         y="536.78497"
+         id="tspan18">Disabled</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text24"><tspan
+         x="322"
+         y="602.78497"
+         id="tspan22">Disabled</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text28"><tspan
+         x="322"
+         y="668.78497"
+         id="tspan26">Checked</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text32"><tspan
+         x="322"
+         y="1054.79"
+         id="tspan30">Indeterminate</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="24px"
+       letter-spacing="0.15"
+       id="text278"><tspan
+         x="120"
+         y="1262.2"
+         id="tspan276">W. Form Group</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       font-weight="500"
+       letter-spacing="0.15"
+       id="text342"><tspan
+         x="120"
+         y="1147.47"
+         id="tspan340">Small</tspan></text>
+    <rect
+       x="570"
+       y="354"
+       width="590"
+       height="832"
+       rx="10"
+       fill="#ffffff"
+       id="rect34"
+       style="filter:url(#Checkbox__a)" />
+    <rect
+       x="1210"
+       y="354"
+       width="590"
+       height="832"
+       rx="10"
+       fill="#121212"
+       id="rect156" />
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre;filter:url(#Checkbox__a)"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text38"><tspan
+         x="594"
+         y="400.785"
+         id="tspan36">Label: False</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre;filter:url(#Checkbox__a)"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text42"><tspan
+         x="744"
+         y="400.785"
+         id="tspan40">True</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre;filter:url(#Checkbox__a)"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text116"><tspan
+         x="944"
+         y="400.785"
+         id="tspan114">Hover: True</tspan></text>
+    <text
+       fill="#ffffff"
+       fill-opacity="0.7"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text160"><tspan
+         x="1234"
+         y="400.785"
+         id="tspan158">Label: False</tspan></text>
+    <text
+       fill="#ffffff"
+       fill-opacity="0.7"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text164"><tspan
+         x="1384"
+         y="400.785"
+         id="tspan162">True</tspan></text>
+    <text
+       fill="#ffffff"
+       fill-opacity="0.7"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text240"><tspan
+         x="1584"
+         y="400.785"
+         id="tspan238">Hover: True</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text282"><tspan
+         x="570"
+         y="1258.79"
+         id="tspan280">State: Default</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="14px"
+       letter-spacing="0.15"
+       id="text286"><tspan
+         x="720"
+         y="1258.79"
+         id="tspan284">Error</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.714807"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.714807"
+     style="display:inline">
+    <rect
+       x="1734"
+       y="504"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#90caf9"
+       fill-opacity="0.08"
+       id="rect262" />
+    <path
+       d="m 1762,516 h -14 c -1.1046,0 -2,0.89543 -2,2 v 14 c 0,1.10457 0.8954,2 2,2 h 14 c 1.1046,0 2,-0.89543 2,-2 v -14 c 0,-1.10457 -0.8954,-2 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#90caf9"
+       id="path4181"
+       sodipodi:nodetypes="sssssssssccccccc" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.715632"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.715632"
+     style="display:inline">
+    <path
+       d="m 1262,582 h -14 c -1.1046,0 -2,0.89543 -2,2 v 14 c 0,1.10457 0.8954,2 2,2 h 14 c 1.1046,0 2,-0.89543 2,-2 v -14 c 0,-1.10457 -0.8954,-2 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ffffff"
+       fill-opacity="0.3"
+       id="path4015"
+       sodipodi:nodetypes="sssssssssccccccc" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7160285"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7160285">
+    <path
+       d="m 1258.83,1137.17 v 11.66 h -11.66 v -11.66 z m 0,-1.67 h -11.66 c -0.92,0 -1.67,0.75 -1.67,1.67 v 11.66 c 0,0.92 0.75,1.67 1.67,1.67 h 11.66 c 0.92,0 1.67,-0.75 1.67,-1.67 v -11.66 c 0,-0.92 -0.75,-1.67 -1.67,-1.67 z"
+       fill="#ffffff"
+       fill-opacity="0.7"
+       id="path3876"
+       sodipodi:nodetypes="cccccsssssssss" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7164383"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7164383">
+    <rect
+       x="1094"
+       y="504"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#1976d2"
+       fill-opacity="0.04"
+       id="rect138" />
+    <path
+       d="m 1122,516 h -14 c -1.1046,0 -2,0.89543 -2,2 v 14 c 0,1.10457 0.8954,2 2,2 h 14 c 1.1046,0 2,-0.89543 2,-2 v -14 c 0,-1.10457 -0.8954,-2 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#1976d2"
+       id="path2367"
+       sodipodi:nodetypes="sssssssssccccccc" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.717458"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.717458">
+    <path
+       d="m 622,582 h -14 c -1.10457,0 -2,0.89543 -2,2 v 14 c 0,1.10457 0.89543,2 2,2 h 14 c 1.10457,0 2,-0.89543 2,-2 v -14 c 0,-1.10457 -0.89543,-2 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#000000"
+       fill-opacity="0.26"
+       id="path2247"
+       sodipodi:nodetypes="sssssssssccccccc" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7178586"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7178586">
+    <path
+       d="m 618.833,1137.17 v 11.66 h -11.666 v -11.66 z m 0,-1.67 h -11.666 c -0.917,0 -1.667,0.75 -1.667,1.67 v 11.66 c 0,0.92 0.75,1.67 1.667,1.67 h 11.666 c 0.917,0 1.667,-0.75 1.667,-1.67 v -11.66 c 0,-0.92 -0.75,-1.67 -1.667,-1.67 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path2009"
+       sodipodi:nodetypes="cccccsssssssss" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7181756"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7181756">
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text290"><tspan
+         x="570"
+         y="1339.47"
+         id="tspan288">Group label</tspan></text>
+    <path
+       d="m 598,1360 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path292" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text296"><tspan
+         x="612"
+         y="1372.47"
+         id="tspan294">Label</tspan></text>
+    <path
+       d="m 598,1402 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path298" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text302"><tspan
+         x="612"
+         y="1414.47"
+         id="tspan300">Label</tspan></text>
+    <path
+       d="m 598,1444 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.26"
+       id="path304" />
+    <text
+       fill="#000000"
+       fill-opacity="0.26"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text308"><tspan
+         x="612"
+         y="1456.47"
+         id="tspan306">Label</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="12px"
+       letter-spacing="0.4"
+       id="text312"><tspan
+         x="570"
+         y="1486.1"
+         id="tspan310">Information label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7206016"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7206016">
+    <path
+       d="m 1262,978 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#66bb6a"
+       id="path274" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7209961"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7209961">
+    <path
+       d="m 1262,912 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#29b6f6"
+       id="path272" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7213988"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7213988">
+    <path
+       d="m 1262,846 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ffa726"
+       id="path270" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7217925"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7217925">
+    <path
+       d="m 1262,780 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#f44336"
+       id="path268" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.722195"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.722195">
+    <path
+       d="m 1262,714 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ce93d8"
+       id="path266" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7225876"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7225876">
+    <path
+       d="m 1262,1044 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z m -2,10 h -10 v -2 h 10 z"
+       fill="#90caf9"
+       id="path264"
+       sodipodi:nodetypes="sssssssssccccc" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.722981"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.722981">
+    <rect
+       x="1734"
+       y="438"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#90caf9"
+       fill-opacity="0.08"
+       id="rect258" />
+    <path
+       d="m 1762,450 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#90caf9"
+       id="path260" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7236712"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7236712">
+    <rect
+       x="1584"
+       y="504"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#90caf9"
+       fill-opacity="0.08"
+       id="rect250" />
+    <path
+       d="m 1612,516 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#90caf9"
+       id="path252" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text256"><tspan
+         x="1626"
+         y="530.46899"
+         id="tspan254">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7246492"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7246492">
+    <rect
+       x="1584"
+       y="438"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#90caf9"
+       fill-opacity="0.08"
+       id="rect242" />
+    <path
+       d="m 1612,450 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#90caf9"
+       id="path244" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text248"><tspan
+         x="1626"
+         y="464.46899"
+         id="tspan246">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.725629"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.725629">
+    <path
+       d="m 1262,648 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#90caf9"
+       id="path236" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7260265"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7260265">
+    <path
+       d="m 1262,518 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#ffffff"
+       fill-opacity="0.3"
+       id="path234"
+       sodipodi:nodetypes="cccccsssssssss" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7264335"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7264335">
+    <path
+       d="m 1262,452 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#ffffff"
+       fill-opacity="0.7"
+       id="path232"
+       sodipodi:nodetypes="cccccsssssssss" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7268295"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7268295">
+    <path
+       d="m 1412,978 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#66bb6a"
+       id="path226" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text230"><tspan
+         x="1426"
+         y="992.46899"
+         id="tspan228">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7275264"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7275264">
+    <path
+       d="m 1412,912 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#29b6f6"
+       id="path220" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text224"><tspan
+         x="1426"
+         y="926.46899"
+         id="tspan222">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7282217"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7282217">
+    <path
+       d="m 1412,846 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ffa726"
+       id="path214" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text218"><tspan
+         x="1426"
+         y="860.46899"
+         id="tspan216">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7289047"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7289047">
+    <path
+       d="m 1412,780 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#f44336"
+       id="path208" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text212"><tspan
+         x="1426"
+         y="794.46899"
+         id="tspan210">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.729599"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.729599">
+    <path
+       d="m 1412,714 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ce93d8"
+       id="path202" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text206"><tspan
+         x="1426"
+         y="728.46899"
+         id="tspan204">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7303047"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7303047">
+    <path
+       d="m 1412,1044 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z m -2,10 h -10 v -2 h 10 z"
+       fill="#90caf9"
+       id="path196" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text200"><tspan
+         x="1426"
+         y="1058.47"
+         id="tspan198">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.730987"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.730987">
+    <path
+       d="m 1412,648 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#90caf9"
+       id="path190" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text194"><tspan
+         x="1426"
+         y="662.46899"
+         id="tspan192">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7316792"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7316792">
+    <path
+       d="m 1412,582 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ffffff"
+       fill-opacity="0.3"
+       id="path184" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.3"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text188"><tspan
+         x="1426"
+         y="596.46899"
+         id="tspan186">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7323754"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7323754">
+    <path
+       d="m 1412,518 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#ffffff"
+       fill-opacity="0.3"
+       id="path178" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.3"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text182"><tspan
+         x="1426"
+         y="530.46899"
+         id="tspan180">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7330592"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7330592">
+    <path
+       d="m 1408.83,1137.17 v 11.66 h -11.66 v -11.66 z m 0,-1.67 h -11.66 c -0.92,0 -1.67,0.75 -1.67,1.67 v 11.66 c 0,0.92 0.75,1.67 1.67,1.67 h 11.66 c 0.92,0 1.67,-0.75 1.67,-1.67 v -11.66 c 0,-0.92 -0.75,-1.67 -1.67,-1.67 z"
+       fill="#ffffff"
+       fill-opacity="0.7"
+       id="path172" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text176"><tspan
+         x="1422"
+         y="1148.47"
+         id="tspan174">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7337508"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7337508">
+    <path
+       d="m 1412,452 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#ffffff"
+       fill-opacity="0.7"
+       id="path166" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text170"><tspan
+         x="1426"
+         y="464.46899"
+         id="tspan168">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.734451"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.734451">
+    <path
+       d="m 622,978 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#2e7d32"
+       id="path152" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7348487"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7348487">
+    <path
+       d="m 622,912 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#0288d1"
+       id="path150" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7352557"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7352557">
+    <path
+       d="m 622,846 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ed6c02"
+       id="path148" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.735651"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.735651">
+    <path
+       d="m 622,780 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#d32f2f"
+       id="path146" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7360437"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7360437">
+    <path
+       d="m 622,648 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#1976d2"
+       id="path144" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7364523"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7364523">
+    <path
+       d="m 622,714 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#9c27b0"
+       id="path142" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7368572"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7368572">
+    <path
+       d="m 622,1044 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z m -2,10 h -10 v -2 h 10 z"
+       fill="#1976d2"
+       id="path140"
+       sodipodi:nodetypes="sssssssssccccc" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7371767"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7371767">
+    <rect
+       x="1094"
+       y="438"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#1976d2"
+       fill-opacity="0.04"
+       id="rect134" />
+    <path
+       d="m 1122,450 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#1976d2"
+       id="path136" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7378566"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7378566">
+    <path
+       d="m 972,516 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#1976d2"
+       id="path128" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text132"><tspan
+         x="986"
+         y="530.46899"
+         id="tspan130">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7387316"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7387316">
+    <rect
+       x="944"
+       y="504"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#1976d2"
+       fill-opacity="0.04"
+       id="rect126" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7391915"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7391915">
+    <rect
+       x="944"
+       y="438"
+       width="42"
+       height="42"
+       rx="21"
+       fill="#1976d2"
+       fill-opacity="0.04"
+       id="rect118" />
+    <path
+       d="m 972,450 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#1976d2"
+       id="path120" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text124"><tspan
+         x="986"
+         y="464.46899"
+         id="tspan122">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.740503"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.740503">
+    <path
+       d="m 622,518 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.26"
+       id="path112"
+       sodipodi:nodetypes="cccccsssssssss" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7410872"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7410872">
+    <path
+       d="m 622,452 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path110"
+       sodipodi:nodetypes="cccccsssssssss" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7416463"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7416463">
+    <path
+       d="m 772,978 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#2e7d32"
+       id="path104" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text108"><tspan
+         x="786"
+         y="992.46899"
+         id="tspan106">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7426426"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7426426">
+    <path
+       d="m 772,912 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#0288d1"
+       id="path98" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text102"><tspan
+         x="786"
+         y="926.46899"
+         id="tspan100">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.743485"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.743485">
+    <path
+       d="m 772,846 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#ed6c02"
+       id="path92" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text96"><tspan
+         x="786"
+         y="860.46899"
+         id="tspan94">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7441764"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7441764">
+    <path
+       d="m 772,780 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#d32f2f"
+       id="path86" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text90"><tspan
+         x="786"
+         y="794.46899"
+         id="tspan88">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.744857"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.744857">
+    <path
+       d="m 772,648 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#1976d2"
+       id="path80" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text84"><tspan
+         x="786"
+         y="662.46899"
+         id="tspan82">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7455602"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7455602">
+    <path
+       d="m 772,714 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#9c27b0"
+       id="path74" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text78"><tspan
+         x="786"
+         y="728.46899"
+         id="tspan76">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.746656"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.746656">
+    <path
+       d="m 772,1044 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z m -2,10 h -10 v -2 h 10 z"
+       fill="#1976d2"
+       id="path68" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7469645"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7469645">
+    <path
+       d="m 772,582 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+       fill="#000000"
+       fill-opacity="0.26"
+       id="path62" />
+    <text
+       fill="#000000"
+       fill-opacity="0.26"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text66"><tspan
+         x="786"
+         y="596.46899"
+         id="tspan64">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7476652"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7476652">
+    <path
+       d="m 772,518 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.26"
+       id="path56" />
+    <text
+       fill="#000000"
+       fill-opacity="0.26"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text60"><tspan
+         x="786"
+         y="530.46899"
+         id="tspan58">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.748757"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.748757">
+    <path
+       d="m 768.833,1137.17 v 11.66 h -11.666 v -11.66 z m 0,-1.67 h -11.666 c -0.917,0 -1.667,0.75 -1.667,1.67 v 11.66 c 0,0.92 0.75,1.67 1.667,1.67 h 11.666 c 0.917,0 1.667,-0.75 1.667,-1.67 v -11.66 c 0,-0.92 -0.75,-1.67 -1.667,-1.67 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path50" />
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7490666"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7490666">
+    <path
+       d="m 772,452 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path44" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text48"><tspan
+         x="786"
+         y="464.46899"
+         id="tspan46">Label</tspan></text>
+  </g>
+  <g
+     inkscape:label="New_Layer_1653328872.7497578"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653328872.7497578"
+     style="display:inline">
+    <text
+       fill="#d32f2f"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text316"><tspan
+         x="720"
+         y="1339.47"
+         id="tspan314">Group error*</tspan></text>
+    <path
+       d="m 748,1360 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path318" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text322"><tspan
+         x="762"
+         y="1372.47"
+         id="tspan320">Label</tspan></text>
+    <path
+       d="m 748,1402 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path324" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text328"><tspan
+         x="762"
+         y="1414.47"
+         id="tspan326">Label</tspan></text>
+    <path
+       d="m 748,1444 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path330" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text334"><tspan
+         x="762"
+         y="1456.47"
+         id="tspan332">Label</tspan></text>
+    <text
+       fill="#d32f2f"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="12px"
+       letter-spacing="0.4"
+       id="text338"><tspan
+         x="720"
+         y="1486.1"
+         id="tspan336">*Error display hint</tspan></text>
+  </g>
+</svg>

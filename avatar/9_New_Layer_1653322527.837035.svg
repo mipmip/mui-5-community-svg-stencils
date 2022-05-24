@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40"
+   height="40"
+   fill="none"
+   version="1.1"
+   id="svg214"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs212" />
+  <g
+     id="New_Layer_1653322527.837035"
+     style="display:inline"
+     transform="translate(-972,-438)">
+    <path
+       d="m 972,458 c 0,-11.046 8.954,-20 20,-20 11.05,0 20,8.954 20,20 0,11.046 -8.95,20 -20,20 -11.046,0 -20,-8.954 -20,-20 z"
+       fill="#757575"
+       id="path128" />
+    <text
+       fill="#121212"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="20px"
+       letter-spacing="0.14"
+       id="text132"
+       x="978.737"
+       y="464.836"><tspan
+         x="978.737"
+         y="464.836"
+         id="tspan130">OP</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="32"
+   fill="none"
+   version="1.1"
+   id="svg1109"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1107">
+    <filter
+       id="Table__m"
+       x="594"
+       y="1178"
+       width="600"
+       height="32"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood852" />
+      <feBlend
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend854"
+         mode="normal" />
+      <feColorMatrix
+         in="SourceAlpha"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix856" />
+      <feOffset
+         dy="-1"
+         id="feOffset858" />
+      <feComposite
+         in2="hardAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         id="feComposite860"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"
+         id="feColorMatrix862" />
+      <feBlend
+         in2="shape"
+         result="effect1_innerShadow_4872_34568"
+         id="feBlend864"
+         mode="normal" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653396223.8526132"
+     style="display:inline"
+     transform="translate(-594,-1178)">
+    <g
+       filter="url(#Table__m)"
+       id="g9982">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.01"
+         d="m 594,1178 h 600 v 32 H 594 Z"
+         id="path4570" />
+      <text
+         fill="#000000"
+         fill-opacity="0.87"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0.17"
+         id="text4574"
+         x="1060"
+         y="1198.79"><tspan
+           x="610"
+           y="1198.79"
+           id="tspan4572">Cell</tspan></text>
+      <text
+         fill="#000000"
+         fill-opacity="0.87"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0.17"
+         id="text4578"
+         x="1060"
+         y="1198.79"><tspan
+           x="760"
+           y="1198.79"
+           id="tspan4576">Cell</tspan></text>
+      <text
+         fill="#000000"
+         fill-opacity="0.87"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0.17"
+         id="text4582"
+         x="1060"
+         y="1198.79"><tspan
+           x="910"
+           y="1198.79"
+           id="tspan4580">Cell</tspan></text>
+      <text
+         fill="#000000"
+         fill-opacity="0.87"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0.17"
+         id="text4586"
+         x="1060"
+         y="1198.79"><tspan
+           x="1060"
+           y="1198.79"
+           id="tspan4584">Cell</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg674"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 220 62.900024"
+   height="62.900024"
+   width="220"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs672">
+    <clipPath
+       id="clip2_4880_117893">
+      <rect
+         width="220"
+         height="24"
+         fill="#ffffff"
+         transform="translate(1722,671.5)"
+         id="rect666"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="New_Layer_1653405217.2749305"
+     style="display:inline"
+     transform="translate(-1722,-639.09998)">
+    <text
+       fill="#ffffff"
+       fill-opacity="0.7"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="12px"
+       letter-spacing="0.15px"
+       id="text5297"
+       x="1724"
+       y="688.96899"><tspan
+         x="1722"
+         y="648.09998"
+         id="tspan4038">Label</tspan></text>
+    <g
+       clip-path="url(#clip2_4880_117893)"
+       id="g5987">
+      <text
+         fill="#ffffff"
+         fill-opacity="0.56"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         letter-spacing="0.15px"
+         id="text4043"
+         x="1724"
+         y="688.96899"><tspan
+           x="1724"
+           y="688.96899"
+           id="tspan4041">Kg</tspan></text>
+    </g>
+    <line
+       x1="1722"
+       y1="701.5"
+       x2="1942"
+       y2="701.5"
+       stroke="#ffffff"
+       stroke-opacity="0.42"
+       id="line3183" />
+  </g>
+</svg>

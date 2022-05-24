@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="68.029686"
+   height="18"
+   fill="none"
+   version="1.1"
+   id="svg373"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs371" />
+  <g
+     id="New_Layer_1653328872.7337508"
+     style="display:inline"
+     transform="translate(-1396,-450)">
+    <path
+       d="m 1412,452 v 14 h -14 v -14 z m 0,-2 h -14 c -1.1,0 -2,0.9 -2,2 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 v -14 c 0,-1.1 -0.9,-2 -2,-2 z"
+       fill="#ffffff"
+       fill-opacity="0.7"
+       id="path166" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15"
+       id="text170"
+       x="1426"
+       y="464.46899"><tspan
+         x="1426"
+         y="464.46899"
+         id="tspan168">Label</tspan></text>
+  </g>
+</svg>

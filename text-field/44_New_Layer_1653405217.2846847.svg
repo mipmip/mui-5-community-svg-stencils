@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg674"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 220 59.900024"
+   height="59.900024"
+   width="220"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs672" />
+  <g
+     id="New_Layer_1653405217.2846847"
+     style="display:inline"
+     transform="translate(-1722,-1155.1)">
+    <text
+       fill="#ffffff"
+       fill-opacity="0.56"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15px"
+       id="text2491"
+       x="1738"
+       y="1164.1"><tspan
+         x="1736"
+         y="1193.47"
+         id="tspan4105">Kg</tspan></text>
+    <rect
+       x="1722.5"
+       y="1159.5"
+       width="219"
+       height="55"
+       rx="3.5"
+       stroke="#ffffff"
+       stroke-opacity="0.23"
+       id="rect7168" />
+    <rect
+       width="38"
+       height="2"
+       fill="#121212"
+       x="1734"
+       y="1159"
+       id="rect1364" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.7"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="12px"
+       letter-spacing="0.15px"
+       id="text5929"
+       x="1738"
+       y="1164.1"><tspan
+         x="1738"
+         y="1164.1"
+         id="tspan4110">Label</tspan></text>
+  </g>
+</svg>

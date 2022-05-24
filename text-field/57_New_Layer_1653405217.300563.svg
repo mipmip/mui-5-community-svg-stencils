@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg674"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 220 56"
+   height="56"
+   width="220"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs672" />
+  <g
+     id="New_Layer_1653405217.300563"
+     style="display:inline"
+     transform="translate(-1722,-1528)">
+    <path
+       d="m 1722,1532 c 0,-2.21 1.79,-4 4,-4 h 212 c 2.21,0 4,1.79 4,4 v 51 h -220 z"
+       fill="#ffffff"
+       fill-opacity="0.09"
+       id="path1592" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.7"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="12px"
+       letter-spacing="0.15px"
+       id="text6904"
+       x="1734"
+       y="1569.47"><tspan
+         x="1734"
+         y="1547.1"
+         id="tspan4198">Label</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="16px"
+       letter-spacing="0.15px"
+       id="text3125"
+       x="1734"
+       y="1569.47"><tspan
+         x="1734"
+         y="1569.47"
+         id="tspan4201">Value</tspan></text>
+    <line
+       x1="1722"
+       y1="1583.5"
+       x2="1942"
+       y2="1583.5"
+       stroke="#ffffff"
+       stroke-opacity="0.42"
+       id="line6660" />
+  </g>
+</svg>

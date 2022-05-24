@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg674"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 220 59.900024"
+   height="59.900024"
+   width="220"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs672" />
+  <g
+     id="New_Layer_1653405217.2861428"
+     style="display:inline"
+     transform="translate(-1722,-1235.1)">
+    <path
+       d="m 1918,1260.5 c -5,0 -9.27,3.11 -11,7.5 1.73,4.39 6,7.5 11,7.5 5,0 9.27,-3.11 11,-7.5 -1.73,-4.39 -6,-7.5 -11,-7.5 z m 0,12.5 c -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 0,2.76 -2.24,5 -5,5 z m 0,-8 c -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 z"
+       fill="#ffffff"
+       fill-opacity="0.56"
+       id="path2245" />
+    <rect
+       x="1722.5"
+       y="1239.5"
+       width="219"
+       height="55"
+       rx="3.5"
+       stroke="#ffffff"
+       stroke-opacity="0.23"
+       id="rect8681" />
+    <rect
+       width="38"
+       height="2"
+       fill="#121212"
+       x="1734"
+       y="1239"
+       id="rect2327" />
+    <text
+       fill="#ffffff"
+       fill-opacity="0.7"
+       xml:space="preserve"
+       style="white-space:pre"
+       font-family="Roboto"
+       font-size="12px"
+       letter-spacing="0.15px"
+       id="text9352"
+       x="1738"
+       y="1244.1"><tspan
+         x="1738"
+         y="1244.1"
+         id="tspan4117">Label</tspan></text>
+  </g>
+</svg>

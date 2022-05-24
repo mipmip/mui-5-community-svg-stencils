@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="tmpb371o28k.svg"
+   id="svg1109"
+   version="1.1"
+   fill="none"
+   height="56"
+   width="600"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1111"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.86626506"
+     inkscape:cx="1164.7705"
+     inkscape:cy="834.61752"
+     inkscape:window-width="2516"
+     inkscape:window-height="1330"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1107">
+    <filter
+       id="Table__u"
+       x="1292"
+       y="972"
+       width="600"
+       height="56"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood972" />
+      <feBlend
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend974"
+         mode="normal" />
+      <feColorMatrix
+         in="SourceAlpha"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix976" />
+      <feOffset
+         dy="-1"
+         id="feOffset978" />
+      <feComposite
+         in2="hardAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         id="feComposite980"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"
+         id="feColorMatrix982" />
+      <feBlend
+         in2="shape"
+         result="effect1_innerShadow_4872_34568"
+         id="feBlend984"
+         mode="normal" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="New_Layer_1653331200.8282828"
+     inkscape:groupmode="layer"
+     id="New_Layer_1653331200.8282828"
+     style="display:inline"
+     transform="translate(-1292,-972)">
+    <g
+       filter="url(#Table__u)"
+       id="g450">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.01"
+         d="m 1292,972 h 600 v 56 h -600 z"
+         id="path430" />
+      <path
+         d="m 1324,991 h -14 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m -9,14 -5,-5 1.41,-1.41 3.59,3.58 7.59,-7.59 1.41,1.42 z"
+         fill="#90caf9"
+         id="path432" />
+      <text
+         fill="#ffffff"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         font-weight="500"
+         letter-spacing="0.17"
+         id="text436"><tspan
+           x="1338"
+           y="1004.79"
+           id="tspan434">Head</tspan></text>
+      <text
+         fill="#ffffff"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         font-weight="500"
+         letter-spacing="0.17"
+         id="text440"><tspan
+           x="1458"
+           y="1004.79"
+           id="tspan438">Head</tspan></text>
+      <text
+         fill="#ffffff"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         font-weight="500"
+         letter-spacing="0.17"
+         id="text444"><tspan
+           x="1608"
+           y="1004.79"
+           id="tspan442">Head</tspan></text>
+      <text
+         fill="#ffffff"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         font-weight="500"
+         letter-spacing="0.17"
+         id="text448"><tspan
+           x="1758"
+           y="1004.79"
+           id="tspan446">Head</tspan></text>
+    </g>
+  </g>
+</svg>
